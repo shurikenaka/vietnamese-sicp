@@ -12,12 +12,24 @@ Cả cuốn sách là một hành trình để chúng ta đi sâu vào thế gi�
 ### Tình trạng của dự án
 
 
-| State/Trạng thái | Content No. /Nội dung | Name                                | Tên |
-|------------------|-----------------------|-------------------------------------|------|
-|Đang dịch        | 1.                    | Foreword                            | Lời mở đầu |
-
-                 
-
+| State/Trạng thái | Content No. /Nội dung  | Name                                 | Tên |
+|------------------|------------------------|--------------------------------------|------|
+|Đang dịch         | 1.                     | Foreword                            | Lời mở đầu |
+|                  | 2.                     | Preface to the Second Edition       |            |
+|                  | 3.                     | Preface to the First Edition        |            |
+|                  | 4.                     | Preface to the Second Edition       |            |                 
+|                  | 5.                     | Preface to the Second Edition       |            |
+|                  | 5.                     | Preface to the Second Edition       |            |
+|                  | 5.                     | Preface to the Second Edition       |            |
+|                  | 5.                     | Preface to the Second Edition       |            |
+|                  | 5.                     | Preface to the Second Edition       |            |
+|                  | 5.                     | Preface to the Second Edition       |            |
+|                  | 5.                     | Preface to the Second Edition       |            |
+|                  | 5.                     | Preface to the Second Edition       |            |
+|                  | 5.                     | Preface to the Second Edition       |            |
+|                  | 5.                     | Preface to the Second Edition       |            |
+|                  | 5.                     | Preface to the Second Edition       |            |
+|                  | 5.                     | Preface to the Second Edition       |            |
 
 ### Thông tin người dịch
 Nguyễn Trung Kiên 
