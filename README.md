@@ -34,33 +34,39 @@ Cả cuốn sách là một hành trình để chúng ta đi sâu vào thế gi�
 |                  | 18.                    | 1.2.3  Orders of Growth  |            |
 |                  | 19.                    | 1.2.4  Exponentiation      |            |
 |                  | 20.                    | 1.2.5  Greatest Common Divisors      |            |
-|                  | 21.                    |  1.2.6  Example: Testing for Primality      |            |
-|                  | 21.                    |  1.3  Formulating Abstractions with Higher-Order Procedures     |            |
-|                  | 21.                    |  1.3.1  Procedures as Arguments     |            |
-|                  | 21.                    |  1.3.2  Constructing Procedures Using Lambda      |            |
-|                  | 21.                    |  1.3.3  Procedures as General Methods     |            |
-|                  | 21.                    |  1.3.4  Procedures as Returned Values    |            |
-|  | 30. | 2.2.2  Hierarchical Structures |
-|  | 31. | 2.2.3  Sequences as Conventional Interfaces |
-|  | 32. | 2.2.4  Example: A Picture Language |
-|  | 33. | 2.3  Symbolic Data |
-|  | 34. | 2.3.1  Quotation |
-|  | 35. | 2.3.2  Example: Symbolic Differentiation |
-|  | 36. | 2.3.3  Example: Representing Sets |
-|  | 37. | 2.3.4  Example: Huffman Encoding Trees |
-|  | 38. | 2.4  Multiple Representations for Abstract Data |
-|  | 39. | 2.4.1  Representations for Complex Numbers |
-|  | 40. | 2.4.2  Tagged data |
-|  | 41. | 2.4.3  Data-Directed Programming and Additivity |
-|  | 42. | 2.5  Systems with Generic Operations |
-|  | 43. | 2.5.1  Generic Arithmetic Operations |
-|  | 44. | 2.5.2  Combining Data of Different Types |
-|  | 45. | 2.5.3  Example: Symbolic Algebra |
-|  | 46. | 3  Modularity, Objects, and State |
-|  | 47. | 3.1  Assignment and Local State |
-|  | 48. | 3.1.1  Local State Variables |
-|  | 49. | 3.1.2  The Benefits of Introducing Assignment |
-|  | 50. | 3.1.3  The Costs of Introducing Assignment | 
+|                  | 21.                    | 1.2.6  Example: Testing for Primality      |            |
+|                  | 22.                    | 1.3  Formulating Abstractions with Higher-Order Procedures     |            |
+|                  | 23.                    | 1.3.1  Procedures as Arguments     |            |
+|                  | 24.                    | 1.3.2  Constructing Procedures Using Lambda      |            |
+|                  | 25.                    | 1.3.3  Procedures as General Methods     |            |
+|                  | 26.                    | 1.3.4  Procedures as Returned Values    |            |
+|                  | 27.                    | 2  Building Abstractions with Data |  |
+|                  | 28.                    | 2.1  Introduction to Data Abstraction |  |
+|                  | 29.                    | 2.1.1  Example: Arithmetic Operations for Rational Numbers |  |
+|                  | 30.                       |        2.1.2  Abstraction Barriers |  |
+|                  | 31.                      | 2.1.3  What Is Meant by Data? |  |
+|                  | 32.                       | 2.1.4  Extended Exercise: Interval Arithmetic |  |
+|  |  | 2.2.2  Hierarchical Structures |
+|  |  | 2.2.3  Sequences as Conventional Interfaces |
+|  |  | 2.2.4  Example: A Picture Language |
+|  |  | 2.3  Symbolic Data |
+|  |  | 2.3.1  Quotation |
+|  |  | 2.3.2  Example: Symbolic Differentiation |
+|  |  | 2.3.3  Example: Representing Sets |
+|  |  | 2.3.4  Example: Huffman Encoding Trees |
+|  |  | 2.4  Multiple Representations for Abstract Data |
+|  |  | 2.4.1  Representations for Complex Numbers |
+|  |  | 2.4.2  Tagged data |
+|  |  | 2.4.3  Data-Directed Programming and Additivity |
+|  |  | 2.5  Systems with Generic Operations |
+|  |  | 2.5.1  Generic Arithmetic Operations |
+|  |  | 2.5.2  Combining Data of Different Types |
+|  |  | 2.5.3  Example: Symbolic Algebra |
+|  |  | 3  Modularity, Objects, and State |
+|  |  | 3.1  Assignment and Local State |
+|  |  | 3.1.1  Local State Variables |
+|  |  | 3.1.2  The Benefits of Introducing Assignment |
+|  |  | 3.1.3  The Costs of Introducing Assignment | 
  
 ### Thông tin người dịch
 Nguyễn Trung Kiên 
