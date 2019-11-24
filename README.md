@@ -11,9 +11,12 @@ Cả cuốn sách là một hành trình để chúng ta đi sâu vào thế gi�
 
 ### Tình trạng của dự án
 
-State/Trạng thái | Content No. /Nội dung | Name                                | Tên 
 
-                 |            1.         | Foreword                            | Lời mở đầu 
+| State/Trạng thái | Content No. /Nội dung | Name                                | Tên |
+|------------------|-----------------------|-------------------------------------|------|
+|Đang dịch        | 1.                    | Foreword                            | Lời mở đầu |
+
+                 
 
 
 ### Thông tin người dịch
