@@ -5,4 +5,4 @@ Bản dịch cuốn sách kinh điển trong ngành khoa học máy tính "Struc
 Nguyễn Trung Kiên 
 linkedin: www.linkedin.com/in/kin-nguyen-the-writer
 
-Đọc sách tại xxx.
+Đọc sách tại ooo.
