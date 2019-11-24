@@ -14,7 +14,7 @@ Cả cuốn sách là một hành trình để chúng ta đi sâu vào thế gi�
 
 | State/Trạng thái | Content No. /Nội dung  | Name                                 | Tên |
 |------------------|------------------------|--------------------------------------|------|
-|Đang dịch         | 1.                     | Foreword                            | Lời mở đầu |
+| > Đang dịch      | 1.                     | Foreword                            | Lời mở đầu |
 |                  | 2.                     | Preface to the Second Edition       |            |
 |                  | 3.                     | Preface to the First Edition        |            |
 |                  | 4.                     | Acknowledgments                     |            |                 
@@ -40,10 +40,29 @@ Cả cuốn sách là một hành trình để chúng ta đi sâu vào thế gi�
 |                  | 21.                    |  1.3.2  Constructing Procedures Using Lambda      |            |
 |                  | 21.                    |  1.3.3  Procedures as General Methods     |            |
 |                  | 21.                    |  1.3.4  Procedures as Returned Values    |            |
-
+|  | 30. | 2.2.2  Hierarchical Structures |
+|  | 31. | 2.2.3  Sequences as Conventional Interfaces |
+|  | 32. | 2.2.4  Example: A Picture Language |
+|  | 33. | 2.3  Symbolic Data |
+|  | 34. | 2.3.1  Quotation |
+|  | 35. | 2.3.2  Example: Symbolic Differentiation |
+|  | 36. | 2.3.3  Example: Representing Sets |
+|  | 37. | 2.3.4  Example: Huffman Encoding Trees |
+|  | 38. | 2.4  Multiple Representations for Abstract Data |
+|  | 39. | 2.4.1  Representations for Complex Numbers |
+|  | 40. | 2.4.2  Tagged data |
+|  | 41. | 2.4.3  Data-Directed Programming and Additivity |
+|  | 42. | 2.5  Systems with Generic Operations |
+|  | 43. | 2.5.1  Generic Arithmetic Operations |
+|  | 44. | 2.5.2  Combining Data of Different Types |
+|  | 45. | 2.5.3  Example: Symbolic Algebra |
+|  | 46. | 3  Modularity, Objects, and State |
+|  | 47. | 3.1  Assignment and Local State |
+|  | 48. | 3.1.1  Local State Variables |
+|  | 49. | 3.1.2  The Benefits of Introducing Assignment |
+|  | 50. | 3.1.3  The Costs of Introducing Assignment | 
+ 
 ### Thông tin người dịch
 Nguyễn Trung Kiên 
 linkedin: www.linkedin.com/in/kin-nguyen-the-writer
-
-### 
-
+email: shuriken.aka@gmail.com
