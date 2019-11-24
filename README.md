@@ -17,19 +17,29 @@ Cả cuốn sách là một hành trình để chúng ta đi sâu vào thế gi�
 |Đang dịch         | 1.                     | Foreword                            | Lời mở đầu |
 |                  | 2.                     | Preface to the Second Edition       |            |
 |                  | 3.                     | Preface to the First Edition        |            |
-|                  | 4.                     | Preface to the Second Edition       |            |                 
-|                  | 5.                     | Preface to the Second Edition       |            |
-|                  | 5.                     | Preface to the Second Edition       |            |
-|                  | 5.                     | Preface to the Second Edition       |            |
-|                  | 5.                     | Preface to the Second Edition       |            |
-|                  | 5.                     | Preface to the Second Edition       |            |
-|                  | 5.                     | Preface to the Second Edition       |            |
-|                  | 5.                     | Preface to the Second Edition       |            |
-|                  | 5.                     | Preface to the Second Edition       |            |
-|                  | 5.                     | Preface to the Second Edition       |            |
-|                  | 5.                     | Preface to the Second Edition       |            |
-|                  | 5.                     | Preface to the Second Edition       |            |
-|                  | 5.                     | Preface to the Second Edition       |            |
+|                  | 4.                     | Acknowledgments                     |            |                 
+|                  | 5.                     | 1  Building Abstractions with Procedures                 |            |
+|                  | 6.                     | 1.1  The Elements of Programming     |            |
+|                  | 7.                     | 1.1.1  Expressions      |            |
+|                  | 8.                     | 1.1.2  Naming and the Environment       |            |
+|                  | 9.                     | 1.1.3  Evaluating Combinations     |            |
+|                  | 10.                    | 1.1.4  Compound Procedures     |            |
+|                  | 11.                    | 1.1.5  The Substitution Model for Procedure Application      |            |
+|                  | 12.                    | 1.1.6  Conditional Expressions and Predicates      |            |
+|                  | 13.                    | 1.1.7  Example: Square Roots by Newton's Method      |            |
+|                  | 14.                    | 1.1.8  Procedures as Black-Box Abstractions      |            |
+|                  | 15.                    | 1.2  Procedures and the Processes They Generate      |            |
+|                  | 16.                    | 1.2.1  Linear Recursion and Iteration      |            |
+|                  | 17.                    | 1.2.2  Tree Recursion      |            |
+|                  | 18.                    | 1.2.3  Orders of Growth  |            |
+|                  | 19.                    | 1.2.4  Exponentiation      |            |
+|                  | 20.                    | 1.2.5  Greatest Common Divisors      |            |
+|                  | 21.                    |  1.2.6  Example: Testing for Primality      |            |
+|                  | 21.                    |  1.3  Formulating Abstractions with Higher-Order Procedures     |            |
+|                  | 21.                    |  1.3.1  Procedures as Arguments     |            |
+|                  | 21.                    |  1.3.2  Constructing Procedures Using Lambda      |            |
+|                  | 21.                    |  1.3.3  Procedures as General Methods     |            |
+|                  | 21.                    |  1.3.4  Procedures as Returned Values    |            |
 
 ### Thông tin người dịch
 Nguyễn Trung Kiên 
