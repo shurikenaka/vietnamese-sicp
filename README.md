@@ -46,29 +46,32 @@ Cả cuốn sách là một hành trình để chúng ta đi sâu vào thế gi�
 |                  | 30.                       |        2.1.2  Abstraction Barriers |  |
 |                  | 31.                      | 2.1.3  What Is Meant by Data? |  |
 |                  | 32.                       | 2.1.4  Extended Exercise: Interval Arithmetic |  |
-|  |  | 2.2.2  Hierarchical Structures |
-|  |  | 2.2.3  Sequences as Conventional Interfaces |
-|  |  | 2.2.4  Example: A Picture Language |
-|  |  | 2.3  Symbolic Data |
-|  |  | 2.3.1  Quotation |
-|  |  | 2.3.2  Example: Symbolic Differentiation |
-|  |  | 2.3.3  Example: Representing Sets |
-|  |  | 2.3.4  Example: Huffman Encoding Trees |
-|  |  | 2.4  Multiple Representations for Abstract Data |
-|  |  | 2.4.1  Representations for Complex Numbers |
-|  |  | 2.4.2  Tagged data |
-|  |  | 2.4.3  Data-Directed Programming and Additivity |
-|  |  | 2.5  Systems with Generic Operations |
-|  |  | 2.5.1  Generic Arithmetic Operations |
-|  |  | 2.5.2  Combining Data of Different Types |
-|  |  | 2.5.3  Example: Symbolic Algebra |
-|  |  | 3  Modularity, Objects, and State |
-|  |  | 3.1  Assignment and Local State |
-|  |  | 3.1.1  Local State Variables |
-|  |  | 3.1.2  The Benefits of Introducing Assignment |
-|  |  | 3.1.3  The Costs of Introducing Assignment | 
+|  | 33. | 2.2.2  Hierarchical Structures |
+|  | 34. | 2.2.3  Sequences as Conventional Interfaces |
+|  | 35. | 2.2.4  Example: A Picture Language |
+|  | 36. | 2.3  Symbolic Data |
+|  | 37. | 2.3.1  Quotation |
+|  | 38. | 2.3.2  Example: Symbolic Differentiation |
+|  | 39. | 2.3.3  Example: Representing Sets |
+|  | 40. | 2.3.4  Example: Huffman Encoding Trees |
+|  | 41. | 2.4  Multiple Representations for Abstract Data |
+|  | 42. | 2.4.1  Representations for Complex Numbers |
+|  | 43. | 2.4.2  Tagged data |
+|  | 44. | 2.4.3  Data-Directed Programming and Additivity |
+|  | 45. | 2.5  Systems with Generic Operations |
+|  | 46. | 2.5.1  Generic Arithmetic Operations |
+|  | 47. | 2.5.2  Combining Data of Different Types |
+|  | 48. | 2.5.3  Example: Symbolic Algebra |
+|  | 49. | 3  Modularity, Objects, and State |
+|  | 50. | 3.1  Assignment and Local State |
+|  | 51. | 3.1.1  Local State Variables |
+|  | 52. | 3.1.2  The Benefits of Introducing Assignment |
+|  | 53. | 3.1.3  The Costs of Introducing Assignment | 
+|  |  | ... | |
  
 ### Thông tin người dịch
 Nguyễn Trung Kiên 
-linkedin: www.linkedin.com/in/kin-nguyen-the-writer
-email: shuriken.aka@gmail.com
+
+Linkedin: www.linkedin.com/in/kin-nguyen-the-writer
+
+Email: shuriken.aka@gmail.com
