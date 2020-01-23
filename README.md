@@ -1,5 +1,5 @@
 # vietnamese-sicp
-Bản dịch cuốn sách kinh điển trong ngành khoa học máy tính "Structure and Interpretation of Computer Programs", do Nguyễn Trung Kiên thực hiện.
+Bản dịch cuốn sách kinh điển trong ngành khoa học máy tính "Structure and Interpretation of Computer Programs", do Trung-Kiên Nguyễn thực hiện.
 
 ### Thông tin về quyển sách
 "Structure and Interpretation of Computer Programs", hay còn được gọi với cái tên "Quyển sách ma thuật (The Wizard Book)" luôn nằm trong danh sách để cử những cuốn sách bắt-buộc-phải-đọc đối với một người làm khoa học máy tính. Sách đưa ra một quan điểm hết sức thú vị và xác đáng: 
@@ -10,11 +10,9 @@ Cả cuốn sách là một hành trình để chúng ta đi sâu vào thế gi�
 Đọc sách tại ooo.
 
 ### Tình trạng của dự án
-
-
-| State/Trạng thái | Content No. /Nội dung  | Name                                 | Tên |
-|------------------|------------------------|--------------------------------------|------|
-| > Đang dịch      | 1.                     | Foreword                            | Lời mở đầu |
+| State/Trạng thái | Content No. Nội dung   | Name                                 | Tên                               |
+|------------------|------------------------|--------------------------------------|-----------------------------------|
+| > Đang dịch      | 1.                     | Foreword                             | Lời mở đầu                        |
 |                  | 2.                     | Preface to the Second Edition       |            |
 |                  | 3.                     | Preface to the First Edition        |            |
 |                  | 4.                     | Acknowledgments                     |            |                 
@@ -67,11 +65,10 @@ Cả cuốn sách là một hành trình để chúng ta đi sâu vào thế gi�
 |  | 51. | 3.1.1  Local State Variables |
 |  | 52. | 3.1.2  The Benefits of Introducing Assignment |
 |  | 53. | 3.1.3  The Costs of Introducing Assignment | 
-|  |  | ... | |
+|  | NAH | ...                              |                                                                          |
  
 ### Thông tin người dịch
-Nguyễn Trung Kiên 
-
-Linkedin: www.linkedin.com/in/kin-nguyen-the-writer
+Trung-Kiên Nguyễn 
+(LINKEDIN)[www.linkedin.com/in/kin-nguyen-the-writer]
 
 Email: shuriken.aka@gmail.com
